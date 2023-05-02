@@ -1,0 +1,10 @@
+.classpath
+.project
+.springBeans
+src/main/webapp/resources/vendor
+target
+.settings
+jdbc.properties
+jdbc2.properties
+jdbc3.properties
+src/test/java/co/jmymble/persistence/JDBCTests.java
